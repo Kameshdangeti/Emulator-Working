@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "prime-odyssey-413109",
+  "private_key_id": "ba87cd963e857683065cb8d01e0bbe22ca977c6e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDFWoZa5XvUWHK2\nbTjxHgId58YpSgftYeMNCJzYvB+aX7WKCf+KQ+YIFtvwB14MJVuK7tOfOQkOCrBY\nTRsEhcL7gilWhKEwl3+dirufT6HQFwNyTlXAjk1h1LefO9HScLKiEv11cmLKXS62\nkj7uSTGeC+HwemkvLPdB9ARtXAJDxnfnpaAdCFUEkzBZOvhXF2vVvyQ6aS1JXB/G\netzSDzemP2Ynli4eqK1cTWdztjPPJGF0t8IMERyn+jOOK8oN6jtdqn6DR3Lfq3oN\nU7Sr7P8hg2Mf9BSDvKCrUkQVzIVRFDYCv4+WLKjVWbiW4HqaesVdsh4dXsv/1DVn\n5nfcig9hAgMBAAECggEANgozNwmWrk8n3icrS+7tInY4T08Lu6ctroB4vmpI9xMV\nGT7in+A2yWlFAUVrLcU++1ypSvSps5QetJcsekEMYqVCH4RCxRT+50s5VAbQprPe\niDrGBWuR6eN/AlW1fzvH1lR/3dycC5CXfXuvSr11HjNfw2MpkTbtX7xrR+zFW/wt\nE2P9KzUVVgfUmZa8bxKrkFlhk5DH9yWzlNtT+1BGPCA1FTPdGoJO+1NVMaPHJug5\nJS/9EBk04RBaINCLpksGtGEabJPfB2a0VS66FbtHQ6Mhc73r/MUv8Fl2eahmJ5ub\nXtzqd9+L1a5oBRvEpSkxgOOlH03rfNXQPG4T+LAEZwKBgQD9m6hqswWdgrRbrlEn\ntQ6J7X+I+3foDc1Kj4JYd39DqCJKusra4guMbQtPAIdR2hK5Qe+byVXcOJloNICS\no9h6dfUWtqabJqqmEZkmsxha6cybZFCmRUEXd1HOEb2hNLZo13gd656f7KREDwmQ\nwUlYmg6/1+IIK3ZgPCxCfQOXlwKBgQDHNwoW55tbLDuW+Ip6mATWFLbsZTudPKzm\nrpDwKaDXuFIr5x71eqmW8X5NavWjdTeLk3pgwwuGBJV7HLBWl/y58edsPYyR6wkt\nV+6w29EVEpF/C5yzg6G1DB/N+1gC2HWVCs6RhEt2V8h0MCOFsvbMfbijR/Y5QkGA\nJT1AgrmvxwKBgQDPETcT15PwJXYpnUy6BQUX7QjCyb//grVp+X7NyNPqY++L4LQc\nv4/6WlZvbNkQJeQ/yuxe4KbwJm5rPOL12D26z3EL2Jpz98BB1ACeLoDmShs7jU6k\nU8tv44axoJ6abzW4qKV0mJttrIP65eRDgu3mH/OHBDeTwBjpPnhM2VIDhQKBgQCI\nv5xaarP3Gt7w3D1auB2hwuhqT3djkPHzC+OMKFcznWAyqN1UjtX5Ol6D0Cc8BEuT\nsTGxWFIBtgXSU7gsSPp/vbEpWPq0c42CJblAiDP27h8YAaWYiIQpXmA6qg0ZLvNP\n0vJHa3PNkaaVMzI/JcFKUAa9drlrRrLlvypTrSi/owKBgQC8MzTm/T6hBlFtfI8q\nxyg0wiFnHzL3TirD8L60LJbIl7lOW0XwWIZFCtQKeJAj+kofbmFlAkSBaIkTMXSn\nTjKv3o7pq/6Fjhlk0Wf76t6X33OcCXNJNFWPAUgtyOjl8kfAR0spBFZmhBXZ6nTN\nurYvrirl3BXhuhbAp8pp4mUusQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-273@prime-odyssey-413109.iam.gserviceaccount.com",
+  "client_id": "116506678041298630345",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-273%40prime-odyssey-413109.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
